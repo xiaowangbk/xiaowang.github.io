@@ -1,26 +1,5 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="utf-8">
-  <link rel="dns-prefetch" href="https://github.githubassets.com">
-  <link rel="dns-prefetch" href="https://avatars0.githubusercontent.com">
-  <link rel="dns-prefetch" href="https://avatars1.githubusercontent.com">
-  <link rel="dns-prefetch" href="https://avatars2.githubusercontent.com">
-  <link rel="dns-prefetch" href="https://avatars3.githubusercontent.com">
-  <link rel="dns-prefetch" href="https://github-cloud.s3.amazonaws.com">
-  <link rel="dns-prefetch" href="https://user-images.githubusercontent.com/">
 
-
-
-  <link crossorigin="anonymous" media="all" integrity="sha512-FG+rXqMOivrAjdEQE7tO4BwM1poGmg70hJFTlNSxjX87grtrZ6UnPR8NkzwUHlQEGviu9XuRYeO8zH9YwvZhdg==" rel="stylesheet" href="https://github.githubassets.com/assets/frameworks-146fab5ea30e8afac08dd11013bb4ee0.css" />
-  
-    <link crossorigin="anonymous" media="all" integrity="sha512-SrB0X4ujAxk6uIFCdDuSgWWRh2UHBUlUAht/GLpHVDyI3+HehRnlmR83z56OOY8uDBcFNmZCFNZ/M/PhfaXR5g==" rel="stylesheet" href="https://github.githubassets.com/assets/github-4ab0745f8ba303193ab88142743b9281.css" />
     
-    
-    
-    
-
-
   <meta name="viewport" content="width=device-width">
   
   <title>BaiduYunVIP/baiduYunVIP.md at master · lpg-it/BaiduYunVIP</title>
